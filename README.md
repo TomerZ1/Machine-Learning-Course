@@ -5,6 +5,7 @@ This repository contains my homework assignments and projects from the universit
 ## 📁 Contents
 
 The assignments cover a range of topics, including:
+- KNN train
 - Cross-validation
 - Support Vector Machines (SVM)
 - Stochastic Gradient Descent (SGD)
